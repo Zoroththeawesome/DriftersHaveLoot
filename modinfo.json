@@ -1,0 +1,10 @@
+{
+    "type": "content",
+    "modid": "driftershaveloot",
+    "name": "Drifters Have Loot",
+    "authors": [
+      "ZorothTheAwesome"
+    ],
+    "description": "You will now always get at least one rusted gear from drifters, shivers, and blowtorns.",
+    "version": "1.0.2"
+  }

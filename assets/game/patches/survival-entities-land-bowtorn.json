@@ -1,0 +1,292 @@
+[
+    {
+        "op": "replace",
+        "path": "/server/behaviors/9/dropsByType/*-surface",
+        "value": [
+          {
+            "type": "item",
+            "code": "gear-temporal",
+            "quantity": {
+              "avg": 0.02666,
+              "var": 0
+            }
+          },
+          {
+            "type": "item",
+            "code": "gear-rusty",
+            "dropModbyStat": "rustyGearDropRate",
+            "quantity": {
+              "avg": 1,
+              "var": 0
+            }
+          },
+          {
+            "type": "item",
+            "code": "flaxfibers",
+            "quantity": {
+              "avg": 0.2,
+              "var": 0
+            }
+          },
+          {
+            "type": "block",
+            "code": "game:metal-scraps",
+            "quantity": {
+              "avg": 0.05,
+              "var": 0
+            }
+          },
+          {
+            "type": "item",
+            "code": "game:metalbit-copper",
+            "quantity": {
+              "avg": 0.4,
+              "var": 0
+            }
+          },
+          {
+            "type": "item",
+            "code": "game:metalbit-tin",
+            "quantity": {
+              "avg": 0.4,
+              "var": 0
+            }
+          },
+          {
+            "type": "item",
+            "code": "game:stone-limestone",
+            "quantity": {
+              "avg": 0.15,
+              "var": 0
+            }
+          },
+          {
+            "type": "item",
+            "code": "game:salt",
+            "quantity": {
+              "avg": 0.05,
+              "var": 0
+            }
+          }
+        ],
+        "file": "entities/land/bowtorn.json"
+    },
+    {
+        "op": "replace",
+        "path": "/server/behaviors/9/dropsByType/*-deep",
+        "value": [
+          {
+            "type": "item",
+            "code": "gear-temporal",
+            "quantity": {
+              "avg": 0.033325,
+              "var": 0
+            }
+          },
+          {
+            "type": "item",
+            "code": "gear-rusty",
+            "dropModbyStat": "rustyGearDropRate",
+            "quantity": {
+              "avg": 1,
+              "var": 0
+            }
+          },
+          {
+            "type": "item",
+            "code": "flaxfibers",
+            "quantity": {
+              "avg": 0.4,
+              "var": 0
+            }
+          },
+          {
+            "type": "block",
+            "code": "game:metal-scraps",
+            "quantity": {
+              "avg": 0.1,
+              "var": 0
+            }
+          },
+          {
+            "type": "item",
+            "code": "game:metalbit-tin",
+            "quantity": {
+              "avg": 0.6,
+              "var": 0
+            }
+          },
+          {
+            "type": "item",
+            "code": "game:metalbit-copper",
+            "quantity": {
+              "avg": 0.6,
+              "var": 0
+            }
+          }
+        ],
+        "file": "entities/land/bowtorn.json"
+    },
+    {
+        "op": "replace",
+        "path": "/server/behaviors/9/dropsByType/*-tainted",
+        "value": [
+              {
+                "type": "item",
+                "code": "gear-temporal",
+                "quantity": { "avg": 0.03999, "var": 0 }
+              },
+              {
+                "type": "item",
+                "code": "gear-rusty",
+                "dropModbyStat": "rustyGearDropRate",
+                "quantity": { "avg": 3, "var": 0.5 }
+              },
+              {
+                "type": "item",
+                "code": "flaxfibers",
+                "quantity": { "avg": 0.6, "var": 0 }
+              },
+              {
+                "type": "item",
+                "code": "game:metalbit-tin",
+                "quantity": {
+                  "avg": 0.8,
+                  "var": 0
+                }
+              },
+              {
+                "type": "item",
+                "code": "game:metalbit-copper",
+                "quantity": {
+                  "avg": 0.8,
+                  "var": 0
+                }
+              }
+        ],
+        "file": "entities/land/bowtorn.json"
+    },
+    {
+        "op": "replace",
+        "path": "/server/behaviors/9/dropsByType/*-corrupt",
+        "value": [
+              {
+                "type": "item",
+                "code": "gear-temporal",
+                "quantity": { "avg": 0.046655, "var": 0 }
+              },
+              {
+                "type": "item",
+                "code": "gear-rusty",
+                "dropModbyStat": "rustyGearDropRate",
+                "quantity": { "avg": 4, "var": 0.75 }
+              },
+              {
+                "type": "item",
+                "code": "flaxfibers",
+                "quantity": { "avg": 0.8, "var": 0 }
+              },
+              {
+                "type": "item",
+                "code": "game:metalbit-tin",
+                "quantity": {
+                  "avg": 1,
+                  "var": 0
+                }
+              },
+              {
+                "type": "item",
+                "code": "game:metalbit-molybdochalkos",
+                "quantity": {
+                  "avg": 1,
+                  "var": 0
+                }
+              }
+        ],
+        "file": "entities/land/bowtorn.json"
+    },
+    {
+        "op": "replace",
+        "path": "/server/behaviors/9/dropsByType/*-nightmare",
+        "value": [
+              {
+                "type": "item",
+                "code": "gear-temporal",
+                "quantity": { "avg": 0.05332, "var": 0 }
+              },
+              {
+                "type": "item",
+                "code": "gear-rusty",
+                "dropModbyStat": "rustyGearDropRate",
+                "quantity": { "avg": 5, "var": 2.5 }
+              },
+              {
+                "type": "item",
+                "code": "flaxfibers",
+                "quantity": { "avg": 1, "var": 0 }
+              },
+              {
+                "type": "item",
+                "code": "game:metalbit-tin",
+                "quantity": {
+                  "avg": 1,
+                  "var": 0.2
+                }
+              },
+              {
+                "type": "item",
+                "code": "game:metalbit-copper",
+                "quantity": {
+                  "avg": 1,
+                  "var": 0.2
+                }
+              }
+        ],
+        "file": "entities/land/bowtorn.json"
+    },
+    {
+        "op": "replace",
+        "path": "/server/behaviors/9/dropsByType/*-gearfoot",
+        "value": [
+              {
+                "type": "item",
+                "code": "gear-temporal",
+                "quantity": { "avg": 1, "var": 0.4 }
+              },
+              {
+                "type": "item",
+                "code": "gear-rusty",
+                "dropModbyStat": "rustyGearDropRate",
+                "quantity": { "avg": 6, "var": 2.5 }
+              },
+              {
+                "type": "item",
+                "code": "flaxfibers",
+                "quantity": { "avg": 2, "var": 0 }
+              },
+              {
+                "type": "item",
+                "code": "game:metalbit-tin",
+                "quantity": {
+                  "avg": 2,
+                  "var": 0.5
+                }
+              },
+              {
+                "type": "item",
+                "code": "game:metalbit-copper",
+                "quantity": {
+                  "avg": 2,
+                  "var": 0.5
+                }
+              }
+        ],
+        "file": "entities/land/bowtorn.json"
+    },
+    {
+        "op": "addmerge",
+        "path": "/client/behaviors/4/quantitySlots",
+        "value": 8,
+        "file": "entities/land/bowtorn.json"
+    }
+]
